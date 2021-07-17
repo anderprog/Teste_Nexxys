@@ -1,0 +1,14 @@
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\bin\Debug\netcoreapp2.2\WebApiValidacao.deps.json
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\bin\Debug\netcoreapp2.2\WebApiValidacao.runtimeconfig.json
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\bin\Debug\netcoreapp2.2\WebApiValidacao.runtimeconfig.dev.json
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\bin\Debug\netcoreapp2.2\WebApiValidacao.dll
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\bin\Debug\netcoreapp2.2\WebApiValidacao.pdb
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\obj\Debug\netcoreapp2.2\WebApiValidacao.csproj.CoreCompileInputs.cache
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\obj\Debug\netcoreapp2.2\WebApiValidacao.RazorAssemblyInfo.cache
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\obj\Debug\netcoreapp2.2\WebApiValidacao.RazorAssemblyInfo.cs
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\obj\Debug\netcoreapp2.2\WebApiValidacao.AssemblyInfoInputs.cache
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\obj\Debug\netcoreapp2.2\WebApiValidacao.AssemblyInfo.cs
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\obj\Debug\netcoreapp2.2\WebApiValidacao.RazorTargetAssemblyInfo.cache
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\obj\Debug\netcoreapp2.2\WebApiValidacao.dll
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\obj\Debug\netcoreapp2.2\WebApiValidacao.pdb
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\WebApiValidacao\obj\Debug\netcoreapp2.2\WebApiValidacao.csprojAssemblyReference.cache

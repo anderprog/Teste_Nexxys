@@ -1,0 +1,17 @@
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\bin\Debug\netcoreapp2.2\TestApi.deps.json
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\bin\Debug\netcoreapp2.2\TestApi.runtimeconfig.json
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\bin\Debug\netcoreapp2.2\TestApi.runtimeconfig.dev.json
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\bin\Debug\netcoreapp2.2\TestApi.dll
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\bin\Debug\netcoreapp2.2\WebApiValidacao.dll
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\bin\Debug\netcoreapp2.2\WebApiValidacao.pdb
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\obj\Debug\netcoreapp2.2\TestApi.csprojAssemblyReference.cache
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\obj\Debug\netcoreapp2.2\TestApi.csproj.CoreCompileInputs.cache
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\obj\Debug\netcoreapp2.2\TestApi.AssemblyInfoInputs.cache
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\obj\Debug\netcoreapp2.2\TestApi.AssemblyInfo.cs
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\obj\Debug\netcoreapp2.2\TestApi.csproj.CopyComplete
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\bin\Debug\netcoreapp2.2\TestApi.pdb
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\obj\Debug\netcoreapp2.2\TestApi.dll
+C:\Users\dev.50\Documents\NEXXYS\API\WebApiValidacao\TestApi\obj\Debug\netcoreapp2.2\TestApi.pdb
